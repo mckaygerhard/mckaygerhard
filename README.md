@@ -1,4 +1,6 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=mckaygerhard&rank=S,SS,SSS,A,AA,AAA,UNKNOWN,SECRET&row=1&theme=oldie&margin-w=15&margin-h=15&no-bg=true)
+### Стойкий мужик 
+
+![trophy](https://github-profile-trophy.vercel.app/?username=mckaygerhard&rank=S,SS,SSS,A,AA,AAA,UNKNOWN,SECRET&row=1&theme=oldie&margin-w=15&margin-h=15&no-bg=true)
 
 [![stats](https://github-readme-stats.vercel.app/api?username=mckaygerhard&hide=starts)](https://github.com/anuraghazra/github-readme-stats)
 
