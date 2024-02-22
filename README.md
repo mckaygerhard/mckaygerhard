@@ -1,4 +1,8 @@
-### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=mckaygerhard&rank=S,SS,SSS,A,AA,AAA,UNKNOWN,SECRET&row=1&theme=oldie&margin-w=15&margin-h=15&no-bg=true)
+
+[![stats](https://github-readme-stats.vercel.app/api?username=mckaygerhard&hide=starts)](https://github.com/anuraghazra/github-readme-stats)
+
+[![](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://qgqlochekone.blogspot.com) [![](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://vegnuli.wordpress.com) [![](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)](#venenux-minetest:matrix.org) [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mckaylenz) [![](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)](https://codeberg.com/mckaygerhard) [![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/mckaygerhard)
 
 <!--
 **mckaygerhard/mckaygerhard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
